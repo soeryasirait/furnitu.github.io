@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.jc-Center {
+    justify-content: center;
+}
+
+.jc-SpaceBetween {
+    justify-content: space-between;
+}
+
+.img-fluid {
+    width: 100%;
+}
